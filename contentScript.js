@@ -3,7 +3,7 @@
 console.log('hi from Hemlock');
 chrome.runtime.sendMessage( {count : 666} );
 
-var badList = ['Manziel', 'manziel', 'johhny football', 'Johny Football'];
+var badList = ['Manziel', 'manziel', 'johhny football', 'Johny Football', 'Johnny Manziel', 'Johnny manziel', 'johhny manziel'];
 var badUrls = [];
 badList.forEach( function(t, i, a) { badUrls[i] = t.replace(new RegExp(' ', 'g'), '-'); } );
 
