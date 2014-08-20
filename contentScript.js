@@ -42,7 +42,7 @@ if (matches) {
 // this is where they die
 //oh shit
 if ( location.href.match(badUrls) ) {
-  alert('Too deep already');
+ // alert('Too deep already');
 }
 // images
 $('img').filter( function() {
