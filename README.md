@@ -1,7 +1,7 @@
-Hemlock
+ManzielHider
 =======
 
-Chrome Extension to Remove Famous People from your Internet 
+Chrome Extension to Remove that giant ass clown Johnny Manziel from your life.
 
 In Extreme Beta. There are no options pages, just basic functionality. 
 
